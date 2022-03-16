@@ -11,10 +11,9 @@
 name: Build OpenWrt K2-PSG1218A
 
 on:
-  push:
-    branches:
-#  watch:
-#    types: started
+
+  watch:
+    types: started
     
   repository_dispatch:
   workflow_dispatch:
