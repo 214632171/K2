@@ -9,7 +9,7 @@
 # Description: Source code update checker
 #
 
-name: Update Checker
+name: Update K2-PSG1218A
 
 env:
   REPO_URL: https://github.com/openwrt/openwrt
