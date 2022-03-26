@@ -14,7 +14,6 @@ on:
 
   watch:
     types: started
-      - master
     
   schedule:
     - cron: 0 8 */5 * *
