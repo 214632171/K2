@@ -8,12 +8,13 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: OpenWrt-K2-PSG1218A
+name: K2-PSG1218A
 
 on:
 
   watch:
     types: started
+      -master
     
   schedule:
     - cron: 0 8 */5 * *
