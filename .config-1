@@ -119,7 +119,7 @@ CONFIG_TARGET_ramips_mt7620=y
 # CONFIG_TARGET_ramips_mt7620_DEVICE_ohyeah_oy-0001 is not set
 # CONFIG_TARGET_ramips_mt7620_DEVICE_phicomm_k2g is not set
 # CONFIG_TARGET_ramips_mt7620_DEVICE_phicomm_psg1208 is not set
-CONFIG_TARGET_ramips_mt7620_DEVICE_phicomm_psg1218a=y
+# CONFIG_TARGET_ramips_mt7620_DEVICE_phicomm_psg1218a=y
 # CONFIG_TARGET_ramips_mt7620_DEVICE_phicomm_psg1218b is not set
 # CONFIG_TARGET_ramips_mt7620_DEVICE_planex_cs-qr10 is not set
 # CONFIG_TARGET_ramips_mt7620_DEVICE_planex_db-wrt01 is not set
@@ -242,7 +242,7 @@ CONFIG_TARGET_ramips_mt7620_DEVICE_phicomm_psg1218a=y
 # CONFIG_TARGET_DEVICE_ramips_mt7620_DEVICE_ohyeah_oy-0001 is not set
 # CONFIG_TARGET_DEVICE_ramips_mt7620_DEVICE_phicomm_k2g is not set
 # CONFIG_TARGET_DEVICE_ramips_mt7620_DEVICE_phicomm_psg1208 is not set
-# CONFIG_TARGET_DEVICE_ramips_mt7620_DEVICE_phicomm_psg1218a is not set
+CONFIG_TARGET_DEVICE_ramips_mt7620_DEVICE_phicomm_psg1218a=y
 # CONFIG_TARGET_DEVICE_ramips_mt7620_DEVICE_phicomm_psg1218b is not set
 # CONFIG_TARGET_DEVICE_ramips_mt7620_DEVICE_planex_cs-qr10 is not set
 # CONFIG_TARGET_DEVICE_ramips_mt7620_DEVICE_planex_db-wrt01 is not set
